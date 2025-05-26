@@ -117,20 +117,13 @@ analytics-platform/
 
 ## 🤔 Why This Project?
 
-This demonstrates key backend skills:
 - **API Design** - RESTful endpoints with FastAPI
 - **Data Processing** - Event ingestion and analytics
 - **Testing** - Comprehensive test coverage
 - **Documentation** - Clear API docs and README
 - **Industry Practices** - Proper project structure
 
-Perfect for showcasing modern Python development skills!
 
-## 📞 Connect
-
-**Shankar Karki** - [shankar.karki660@gmail.com](mailto:shankar.karki660@gmail.com)
-
-🔗 **Project**: [github.com/shankarkarki/analytics-platform](https://github.com/shankarkarki/analytics-platform)
 
 ---
 ⭐ **Like this project? Give it a star!** ⭐
